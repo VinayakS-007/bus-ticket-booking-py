@@ -1,5 +1,8 @@
 # 🚌 Bus Ticket Booking System (Python)
 
+> **Version:** v1.0.1
+> **Last Uptate:** July 8, 2025
+
 A simple terminal-based **Bus Ticket Booking System** written in Python.  
 It supports both manual and advanced input modes, calculates fares based on distance and age category, and prints a formatted ticket with timestamp and fare details.
 
