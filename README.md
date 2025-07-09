@@ -25,6 +25,7 @@ It supports both manual and advanced input modes, calculates fares based on dist
 - ✅ Load and view **past booking history**
 - ✅ Add support for **command-line arguments** or a simple menu
 - ✅ Upgrade to GUI using **Tkinter** or web version using **Flask**
+- ✅ Add a proper **Logger** to the program for tracking activies
 
 ---
 
